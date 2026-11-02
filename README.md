@@ -8,7 +8,6 @@ The dataset contains telecom customer profiles tracking demographic characterist
 
 ## c. Github Repository Link
 **Repository Link:** [https://github.com/2026aj05516/2026AJ05516_BITS_AIML_Assignement_2.git](https://github.com/2026aj05516/2026AJ05516_BITS_AIML_Assignement_2.git)  
-*(Note: Please update this placeholder with your live GitHub repository link inside the markdown file before converting it to your final submission PDF).*
 
 ---
 
