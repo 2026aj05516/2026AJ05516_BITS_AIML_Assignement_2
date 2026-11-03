@@ -1,10 +1,11 @@
 # Step 5: README.md Project Report
 
 ## a. Problem Statement
-The objective of this project is to build an end-to-end predictive and diagnostic machine learning pipeline to identify at-risk telecommunication subscribers and forecast customer churn. By training and evaluating both parametric and non-parametric classifiers, the system isolates high-friction service configurations, pricing sensitivities, and usage thresholds to allow proactive retention strategies.
+**Telecom Customer Churn Prediction**-The objective of this project is to build an end-to-end predictive and diagnostic machine learning pipeline to identify at-risk telecommunication subscribers and forecast customer churn. By training and evaluating both parametric (Logistic Regression) and non-parametric classifiers (DT,KNN,NB,SVM), the system isolates high-friction service configurations, pricing sensitivities, and usage thresholds to allow proactive retention strategies.
 
 ## b. Dataset Description
-The dataset taken from kaggle (alipakzad/telecom-customer-churn). As mentioned in assignment it consists of 7043 (>500) instances and 20 features (>12) , providing a robust operational footprint for classification tasks.Dataset contains telecom customer profiles tracking demographic characteristics, service plans (Internet type, Online Security, Streaming engagement), contract structures (Month-to-month, One-year, Two-year), tenure lifecycle months, and transactional variables (Monthly Charges, Total Charges). 
+The dataset taken from kaggle (alipakzad/telecom-customer-churn). As mentioned in assignment it consists of 7043 (>500) instances and 20 features (>12) , providing a robust operational footprint for classification tasks.Dataset contains telecom customer profiles tracking demographic characteristics, service plans (Internet type, Online Security, Streaming engagement), contract structures (Month-to-month, One-year, Two-year), tenure lifecycle months, and transactional variables (Monthly Charges, Total Charges).
+**Data preprocessing-** - No missing values identified, Feature assessment and feature engineering done. Data split 80:20 rule
 
 ## c. Github Repository Link
 **Repository Link:** [[https://github.com](https://github.com/2026aj05516/2026AJ05516_BITS_AIML_Assignement_2.git)]([https://github.com](https://github.com/2026aj05516/2026AJ05516_BITS_AIML_Assignement_2.git))  
